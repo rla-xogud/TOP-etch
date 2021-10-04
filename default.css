@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+#gridContainer{
+    border: solid black;
+    width: 400px;
+    height: 400px;
+    margin:auto;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.rowDiv{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    flex:1 1 auto;
+}
+.indivDiv{
+    flex:1 1 auto;
+}
