@@ -20,3 +20,6 @@ body{
 .indivDiv{
     flex:1 1 auto;
 }
+#menuOptions{
+    padding: 20px;
+}
